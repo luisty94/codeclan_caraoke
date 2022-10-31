@@ -5,6 +5,5 @@ class Guest:
         self.wallet = wallet
 
     # def gets_in_room(self, wallet):
-    #     for rent in rent:
-    #         self.wallet -= rent.price
-    #     self.rents_bought.append(rent)
+    #     for room in rooms:
+    #       self.wallet -= room.price

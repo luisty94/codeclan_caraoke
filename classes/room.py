@@ -17,3 +17,8 @@ class Room:
 
     def add_song(self, song):
         self.songs.append(song)
+
+    # def room_is_full(self, space):
+    #    room_empty = self.space(4)
+    #    room_full = self.space(0)
+

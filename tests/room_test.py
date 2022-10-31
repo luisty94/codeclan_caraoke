@@ -33,3 +33,10 @@ class TestRoom(unittest.TestCase):
         self.room_1 = Room(1, 4, 5)
         self.room_1.add_song(self.song)
         self.assertEqual(1, len(self.room_1.songs))
+
+# Room is full Method
+
+    # def test_room_is_full(self):
+    #     self.room_1 = Room(1, 4, 5)
+
+
